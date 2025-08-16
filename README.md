@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Duy Tran** — a passionate backend engineer who loves building scalable systems with Java, Go, and Kubernetes.  
+👋 Hi there! I'm **Duy Tran** — a passionate backend engineer who loves building scalable systems with Java, and Kubernetes.  
 🌱 Currently diving deep into system design, distributed architecture, and cloud-native development.  
 📫 Let's connect: [LinkedIn](#) | [Portfolio](#) | [duytran.dev](#)
 
